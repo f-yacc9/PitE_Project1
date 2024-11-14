@@ -1,0 +1,28 @@
+2024-11-08 15:08:01,375 - INFO - Ash is searching for Pokémon...
+2024-11-08 15:08:01,375 - INFO - Ash is searching for Pokémon...
+2024-11-08 15:08:01,543 - INFO - Fetched pikachu with types ['electric']
+2024-11-08 15:08:01,543 - INFO - Fetched pikachu with types ['electric']
+2024-11-08 15:08:01,564 - INFO - Fetched bulbasaur with types ['grass', 'poison']
+2024-11-08 15:08:01,564 - INFO - Fetched bulbasaur with types ['grass', 'poison']
+2024-11-08 15:08:01,628 - INFO - Fetched squirtle with types ['water']
+2024-11-08 15:08:01,628 - INFO - Fetched squirtle with types ['water']
+2024-11-08 15:08:01,697 - INFO - Fetched charmander with types ['fire']
+2024-11-08 15:08:01,697 - INFO - Fetched charmander with types ['fire']
+2024-11-08 15:08:01,773 - INFO - Fetched eevee with types ['normal']
+2024-11-08 15:08:01,773 - INFO - Fetched eevee with types ['normal']
+2024-11-08 15:08:01,773 - INFO - Ash completed searching for Pokémon.
+2024-11-08 15:08:01,773 - INFO - Ash completed searching for Pokémon.
+2024-11-14 13:21:30,642 - INFO - Maria is searching for Pokémon...
+2024-11-14 13:21:30,642 - INFO - Maria is searching for Pokémon...
+2024-11-14 13:21:30,776 - INFO - Fetched bulbasaur with types ['grass', 'poison']
+2024-11-14 13:21:30,776 - INFO - Fetched bulbasaur with types ['grass', 'poison']
+2024-11-14 13:21:30,781 - INFO - Fetched charmander with types ['fire']
+2024-11-14 13:21:30,781 - INFO - Fetched charmander with types ['fire']
+2024-11-14 13:21:30,794 - INFO - Fetched pikachu with types ['electric']
+2024-11-14 13:21:30,794 - INFO - Fetched pikachu with types ['electric']
+2024-11-14 13:21:30,874 - INFO - Fetched squirtle with types ['water']
+2024-11-14 13:21:30,874 - INFO - Fetched squirtle with types ['water']
+2024-11-14 13:21:31,034 - INFO - Fetched eevee with types ['normal']
+2024-11-14 13:21:31,034 - INFO - Fetched eevee with types ['normal']
+2024-11-14 13:21:31,036 - INFO - Maria completed searching for Pokémon.
+2024-11-14 13:21:31,036 - INFO - Maria completed searching for Pokémon.
