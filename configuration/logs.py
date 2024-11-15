@@ -17,7 +17,6 @@ class Logger:
 
         # Stream Handler
         c_handler = logging.StreamHandler()
-        #formatter = logging.Formatter('%(asctime)s - %(levelname)s - %(message)s')
         c_handler.setFormatter(formatter)
         self.logger.addHandler(c_handler)
 

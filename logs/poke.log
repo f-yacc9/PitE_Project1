@@ -26,3 +26,101 @@
 2024-11-14 13:21:31,034 - INFO - Fetched eevee with types ['normal']
 2024-11-14 13:21:31,036 - INFO - Maria completed searching for Pokémon.
 2024-11-14 13:21:31,036 - INFO - Maria completed searching for Pokémon.
+2024-11-14 23:34:33,460 - INFO - Fernanda is searching for Pokémon...
+2024-11-14 23:34:33,460 - INFO - Fernanda is searching for Pokémon...
+2024-11-14 23:34:33,828 - ERROR - Failed to fetch e
+2024-11-14 23:34:33,828 - ERROR - Failed to fetch v
+2024-11-14 23:34:33,828 - ERROR - Failed to fetch e
+2024-11-14 23:34:33,828 - ERROR - Failed to fetch v
+2024-11-14 23:34:33,897 - ERROR - Failed to fetch e
+2024-11-14 23:34:33,897 - ERROR - Failed to fetch e
+2024-11-14 23:34:33,902 - ERROR - Failed to fetch e
+2024-11-14 23:34:33,902 - ERROR - Failed to fetch e
+2024-11-14 23:34:33,967 - ERROR - Failed to fetch e
+2024-11-14 23:34:33,967 - ERROR - Failed to fetch e
+2024-11-14 23:34:33,971 - INFO - Fernanda completed searching for Pokémon.
+2024-11-14 23:34:33,971 - INFO - Fernanda completed searching for Pokémon.
+2024-11-14 23:50:20,372 - INFO - Fer is searching for Pokémon...
+2024-11-14 23:50:20,372 - INFO - Fer is searching for Pokémon...
+2024-11-14 23:50:20,478 - INFO - Fetched eevee with types ['normal']
+2024-11-14 23:50:20,478 - INFO - Fetched eevee with types ['normal']
+2024-11-14 23:50:20,940 - INFO - Fer completed searching for Pokémon.
+2024-11-14 23:50:20,940 - INFO - Fer completed searching for Pokémon.
+2024-11-14 23:56:36,075 - INFO - Fer is searching for Pokémon...
+2024-11-14 23:56:36,075 - INFO - Fer is searching for Pokémon...
+2024-11-14 23:56:36,182 - ERROR - Pokemon data for  missing 'types'
+2024-11-14 23:56:36,182 - ERROR - Pokemon data for  missing 'types'
+2024-11-14 23:56:36,328 - INFO - Fetched eevee with types ['normal']
+2024-11-14 23:56:36,328 - INFO - Fetched eevee with types ['normal']
+2024-11-14 23:56:36,335 - INFO - Fer completed searching for Pokémon.
+2024-11-14 23:56:36,335 - INFO - Fer completed searching for Pokémon.
+2024-11-14 23:57:36,135 - INFO - Maria is searching for Pokémon...
+2024-11-14 23:57:36,135 - INFO - Maria is searching for Pokémon...
+2024-11-14 23:57:36,222 - INFO - Fetched eevee with types ['normal']
+2024-11-14 23:57:36,222 - INFO - Fetched eevee with types ['normal']
+2024-11-14 23:57:36,222 - INFO - Maria completed searching for Pokémon.
+2024-11-14 23:57:36,222 - INFO - Maria completed searching for Pokémon.
+2024-11-14 23:58:06,981 - INFO - Dari is searching for Pokémon...
+2024-11-14 23:58:06,981 - INFO - Dari is searching for Pokémon...
+2024-11-14 23:58:07,073 - ERROR - Pokemon data for  missing 'types'
+2024-11-14 23:58:07,073 - ERROR - Pokemon data for  missing 'types'
+2024-11-14 23:58:07,104 - INFO - Fetched pikachu with types ['electric']
+2024-11-14 23:58:07,104 - INFO - Fetched pikachu with types ['electric']
+2024-11-14 23:58:07,107 - INFO - Dari completed searching for Pokémon.
+2024-11-14 23:58:07,107 - INFO - Dari completed searching for Pokémon.
+2024-11-14 23:59:09,691 - INFO - Trisha is searching for Pokémon...
+2024-11-14 23:59:09,691 - INFO - Trisha is searching for Pokémon...
+2024-11-14 23:59:09,777 - INFO - Fetched pikachu with types ['electric']
+2024-11-14 23:59:09,777 - ERROR - Pokemon data for  missing 'types'
+2024-11-14 23:59:09,777 - INFO - Fetched pikachu with types ['electric']
+2024-11-14 23:59:09,777 - ERROR - Pokemon data for  missing 'types'
+2024-11-14 23:59:09,787 - INFO - Fetched eevee with types ['normal']
+2024-11-14 23:59:09,787 - INFO - Fetched eevee with types ['normal']
+2024-11-14 23:59:09,790 - INFO - Trisha completed searching for Pokémon.
+2024-11-14 23:59:09,790 - INFO - Trisha completed searching for Pokémon.
+2024-11-15 00:04:04,634 - INFO - Raul is searching for Pokémon...
+2024-11-15 00:04:04,634 - INFO - Raul is searching for Pokémon...
+2024-11-15 00:04:04,741 - ERROR - Pokemon data for  missing 'types'
+2024-11-15 00:04:04,741 - ERROR - Pokemon data for  missing 'types'
+2024-11-15 00:04:04,741 - INFO - Fetched eevee with types ['normal']
+2024-11-15 00:04:04,751 - INFO - Fetched pikachu with types ['electric']
+2024-11-15 00:04:04,741 - INFO - Fetched eevee with types ['normal']
+2024-11-15 00:04:04,751 - INFO - Fetched pikachu with types ['electric']
+2024-11-15 00:04:04,756 - INFO - Raul completed searching for Pokémon.
+2024-11-15 00:04:04,756 - INFO - Raul completed searching for Pokémon.
+2024-11-15 00:05:44,127 - INFO - Raul is searching for Pokémon...
+2024-11-15 00:05:44,127 - INFO - Raul is searching for Pokémon...
+2024-11-15 00:05:44,212 - INFO - Fetched eevee with types ['normal']
+2024-11-15 00:05:44,212 - INFO - Fetched eevee with types ['normal']
+2024-11-15 00:05:44,221 - INFO - Fetched pikachu with types ['electric']
+2024-11-15 00:05:44,221 - INFO - Fetched pikachu with types ['electric']
+2024-11-15 00:05:44,223 - INFO - Raul completed searching for Pokémon.
+2024-11-15 00:05:44,223 - INFO - Raul completed searching for Pokémon.
+2024-11-15 00:06:35,381 - INFO - Fer is searching for Pokémon...
+2024-11-15 00:06:35,381 - INFO - Fer is searching for Pokémon...
+2024-11-15 00:06:35,382 - INFO - Fer completed searching for Pokémon.
+2024-11-15 00:06:35,382 - INFO - Fer completed searching for Pokémon.
+2024-11-15 00:07:27,528 - INFO - Javi is searching for Pokémon...
+2024-11-15 00:07:27,528 - INFO - Javi is searching for Pokémon...
+2024-11-15 00:07:28,026 - ERROR - Failed to fetch bulbasur with status code 404
+2024-11-15 00:07:28,026 - ERROR - Failed to fetch bulbasur with status code 404
+2024-11-15 00:07:28,026 - INFO - Javi completed searching for Pokémon.
+2024-11-15 00:07:28,026 - INFO - Javi completed searching for Pokémon.
+2024-11-15 00:11:41,023 - INFO - Fer is searching for Pokémon...
+2024-11-15 00:11:41,023 - INFO - Fer is searching for Pokémon...
+2024-11-15 00:11:41,605 - ERROR - Failed to fetch & c:/users/ferna/appdata/local/microsoft/windowsapps/python3.10.exe c:/users/ferna/desktop/agh/pite/pite_lab_m/mock_project/src/main.py with status code 404
+2024-11-15 00:11:41,605 - ERROR - Failed to fetch & c:/users/ferna/appdata/local/microsoft/windowsapps/python3.10.exe c:/users/ferna/desktop/agh/pite/pite_lab_m/mock_project/src/main.py with status code 404
+2024-11-15 00:11:41,605 - INFO - Fer completed searching for Pokémon.
+2024-11-15 00:11:41,605 - INFO - Fer completed searching for Pokémon.
+2024-11-15 00:12:05,812 - INFO - Marie is searching for Pokémon...
+2024-11-15 00:12:05,812 - INFO - Marie is searching for Pokémon...
+2024-11-15 00:12:05,913 - INFO - Fetched eevee with types ['normal']
+2024-11-15 00:12:05,913 - INFO - Fetched eevee with types ['normal']
+2024-11-15 00:12:05,915 - INFO - Marie completed searching for Pokémon.
+2024-11-15 00:12:05,915 - INFO - Marie completed searching for Pokémon.
+2024-11-15 00:13:04,020 - INFO - Xavi is searching for Pokémon...
+2024-11-15 00:13:04,020 - INFO - Xavi is searching for Pokémon...
+2024-11-15 00:13:04,612 - ERROR - Failed to fetch meow with status code 404
+2024-11-15 00:13:04,612 - ERROR - Failed to fetch meow with status code 404
+2024-11-15 00:13:04,612 - INFO - Xavi completed searching for Pokémon.
+2024-11-15 00:13:04,612 - INFO - Xavi completed searching for Pokémon.

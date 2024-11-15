@@ -18,19 +18,30 @@ class PokemonManager:
         self.pokemon_list = []
         self.lock = threading.Lock()
 
+    
     def fetch_pokemon(self, name):
         url = f"https://pokeapi.co/api/v2/pokemon/{name}"
         response = requests.get(url)
         if response.status_code == 200:
             data = response.json()
-            types = [t["type"]["name"] for t in data["types"]]
-            pokemon = Pokemon(name, types)
-            with self.lock:
-                self.pokemon_list.append(pokemon)
-            self.logger.log("INFO", f"Fetched {name} with types {types}")
+            
+            # Verifying the existence of types
+            
+            if "types" in data:
+                types = [t["type"]["name"] for t in data["types"]]
+                pokemon = Pokemon(name, types)
+                with self.lock:
+                    self.pokemon_list.append(pokemon)
+                self.logger.log("INFO", f"Fetched {name} with types {types}")
+            else:
+                # if "types" is not there, the error is register
+                self.logger.log("ERROR", f"Pokemon data for {name} missing 'types'")
         else:
-            self.logger.log("ERROR", f"Failed to fetch {name}")
-
+            self.logger.log("ERROR", f"Failed to fetch {name} with status code {response.status_code}")
+    
+    
+    
+    
     def fetch_multiple_pokemon(self, names):
         threads = []
         max_threads = self.config.get("max_concurrent_requests")

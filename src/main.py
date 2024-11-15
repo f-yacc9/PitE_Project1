@@ -1,12 +1,4 @@
-
-import json
-
-import requests
-
-# base URL
-"""poke_url = "https://pokeapi.co/api/v2/pokedex/1"
-
-
+"""
 
 ENDPOINTS = [
     "ability",
@@ -58,26 +50,9 @@ ENDPOINTS = [
     "version",
     "version-group"
     ]
-
-# Realiza la solicitud GET
-response = requests.get(poke_url)
-
-# Verifica si la solicitud fue exitosa
-if response.status_code == 200:
-    # Imprime el contenido de la respuesta en formato JSON
-    data = response.json()
-    print("Recursos disponibles:")
-    for key, value in data.items():
-        print(f"{key}: {value}")
-    for key, value in data.items():
-        # Imprime el nombre del recurso y su URL con indentación
-        print(f"{key.capitalize()}: {value}\n")
-        
-else:
-    print("Error al acceder a la API:", response.status_code)
 """
 
-# main.py
+
 from trainer import Trainer
 from configuration.config import ConfigManager
 
@@ -86,11 +61,30 @@ config = ConfigManager.get_instance()
 config.set("max_concurrent_requests", 3)
 config.set("log_level", "INFO")
 
+print("\n******************************* WELCOME TO THE POKEMON TYPE ANALYSER *******************************\n")
+
 # Configurate a Trainer
-trainer = Trainer("Maria")
+trainer_name = str(input("What's your name? -> "))
+trainer_name = Trainer(trainer_name)
 
 # Pokemons to look for
-pokemon_names = ["pikachu", "charmander", "bulbasaur", "squirtle", "eevee"]
+# pokemon_names = ["pikachu", "charmander", "bulbasaur", "squirtle", "eevee"]
+
+pokemons = []
+
+poke_name = str(input("What pokemon do you need to find? -> ")).lower()
+conf = str(input("Do you want another one? (Y/N) \nPress ENTER if you don't want more\n-> ")).upper()
+
+pokemons.append(poke_name)
+
+if conf == "Y":
+    while True:
+        name = str(input("  -> "))
+        pokemons.append(name)
+
+        if name == "":
+            pokemons = pokemons[:-1]  
+            break
 
 # Pokemon search and save
-trainer.search_and_store_pokemon(pokemon_names)
+trainer_name.search_and_store_pokemon(pokemons)
